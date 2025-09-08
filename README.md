@@ -2,7 +2,7 @@
 
 ## Overview
 
-JJ-VMed is an experimental multimodal computational framework developed by **Jaimage** for the **ImageCLEFmed Caption Lab at CLEF 2025**. This repository implements automated **concept detection** and **caption generation** for medical imaging using state-of-the-art vision-language models.
+JJ-VMed is an experimental multimodal computational framework developed by **Jaimage** for the **ImageCLEFmed Caption Lab at CLEF 2025**. This repository implements automated **concept detection** and **caption generation** for medical imaging using vision-language models.
 
 > **Note**: This repository focuses specifically on concept detection and caption generation tasks. Explainability analysis components are maintained in a separate repository.
 
